@@ -11,7 +11,7 @@ def run():
     """
     inputs = {
         'topic': 'Real estate investing',
-        'motion': 'Buying a real estate property in Hyderabad like Prestige Golden Grove is a good investment',
+        'motion': 'Buying a real estate property in India is a good investment',
     }
     
     try:
